@@ -1,0 +1,5 @@
+Esta é minha atividade prática de Git e GitHub.
+
+Estou aprendendo a utilizar o Git para controlar versões e o GitHub para armazenar meus projetos.
+
+Atividade realizada para praticar os comandos básicos do Git.
